@@ -3,3 +3,38 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "effects"]
+	path = effects
+	url = https://github.com/cran/effects
+	shallow = true
+	registered = true
+[submodule "norm"]
+	path = norm
+	url = https://github.com/cran/norm
+	shallow = true
+	registered = true
+[submodule "Rcmdr"]
+	path = Rcmdr
+	url = https://github.com/cran/Rcmdr
+	shallow = true
+	registered = true
+[submodule "RcmdrMisc"]
+	path = RcmdrMisc
+	url = https://github.com/cran/RcmdrMisc
+	shallow = true
+	registered = true
+[submodule "RcmdrPlugin.survival"]
+	path = RcmdrPlugin.survival
+	url = https://github.com/cran/RcmdrPlugin.survival
+	shallow = true
+	registered = true
+[submodule "RcmdrPlugin.TeachingDemos"]
+	path = RcmdrPlugin.TeachingDemos
+	url = https://github.com/cran/RcmdrPlugin.TeachingDemos
+	shallow = true
+	registered = true
+[submodule "sem"]
+	path = sem
+	url = https://github.com/cran/sem
+	shallow = true
+	registered = true
