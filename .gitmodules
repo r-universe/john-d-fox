@@ -20,6 +20,3 @@
 [submodule "norm"]
 	path = norm
 	url = https://github.com/cran/norm
-[submodule "sem"]
-	path = sem
-	url = https://github.com/cran/sem
