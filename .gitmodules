@@ -8,9 +8,6 @@
 [submodule "RcmdrPlugin.survival"]
 	path = RcmdrPlugin.survival
 	url = https://github.com/cran/RcmdrPlugin.survival
-[submodule "effects"]
-	path = effects
-	url = https://github.com/cran/effects
 [submodule "norm"]
 	path = norm
 	url = https://github.com/cran/norm
